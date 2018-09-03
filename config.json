@@ -1,0 +1,11 @@
+{
+  "secret": "TimepassTimepassTimepass",
+  "database": "mongodb://localhost:27017/philosophers",
+  "mail" : {
+      "user" : "philosopherspprt@gmail.com",
+      "pass" : "Jobs@123",
+      "host" : "smtp.gmail.com",
+      "port" : "587",
+      "from" : "jaydip.vaghela@gmail.com"
+  }
+}
